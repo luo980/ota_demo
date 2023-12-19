@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic "CMakeFiles/1.0.0-beta.dir/src/camera.cpp.o" -o 1.0.0-beta 
